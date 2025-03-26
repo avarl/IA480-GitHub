@@ -1,6 +1,4 @@
-Here’s how the report would look in GitHub-flavored Markdown:
 
-```markdown
 # Report: Predicting Lifespan of Irish Animals Based on Population Data
 
 ## 1. Data Source and Description of the Dataset
@@ -40,7 +38,3 @@ Several improvements could be made to enhance the model's performance:
 - **Data Expansion:** Gathering more data or including more animal species could help refine the model and lead to better generalization.
 
 In conclusion, while the model demonstrated a low correlation between population size and lifespan, further improvements could be made by refining the features and applying more advanced modeling techniques.
-```
-
-You can copy this and paste it directly into a `.md` file in your GitHub repository. The report will be nicely formatted when viewed in GitHub's Markdown viewer.
-
